@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-![thunder](https://user-images.githubusercontent.com/95989282/193475008-ef3a67ff-cf72-4bd5-8f7b-0f6cf8679e75.gif)
-
-
-
 <!--
 **1ronlag/1ronlag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
